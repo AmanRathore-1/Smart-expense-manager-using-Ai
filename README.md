@@ -1,19 +1,5 @@
 💰 Smart Expense Manager – Complete Workflow
-🏗 1️⃣ System Architecture Workflow
-
-User → Mobile App / Web
-    ↓
-Authentication Service (OTP / Email Login)
-    ↓
-Expense Management API (Backend)
-    ↓
-AI Receipt Scanner Engine (OCR + NLP)
-    ↓
-Room & Split Engine
-    ↓
-Database (Users + Expenses + Rooms + Analytics)
-    ↓
-Admin / Analytics Dashboard
+“Scan it. Split it. Settle it. Smart money management powered by AI.”
 
 🔄 2️⃣ End-to-End User Workflow
 👤 Step 1: User Registration / Login
@@ -326,6 +312,3 @@ Real-time balances shown
 AI predicts overspending
 Smart budget alerts
 
-🚀 One-Line Startup Pitch
-
-“Scan it. Split it. Settle it. Smart money management powered by AI.”
